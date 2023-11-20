@@ -2,7 +2,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/91801/IdeaProjects/atb4x">
         <classes>
-            <class name="atb5x.wait3">
+            <class name="atb5x.unifyagegroup">
                 <methods>
 
                 </methods>
