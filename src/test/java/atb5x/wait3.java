@@ -96,6 +96,7 @@ public class wait3 {
 
             WebElement addbutton= driver.findElement(By.xpath("//button[text()=\"ADD\"]"));
             addbutton.click();
+            //just want to see whether changes is commit into git or not
         }
 
         /*@AfterTest
